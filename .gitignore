@@ -5,3 +5,4 @@ config/*
 /.metadata/
 RemoteSystemsTempFiles
 .jxbrowser.userdata/
+dvt/
